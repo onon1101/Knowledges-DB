@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "e4cf4b8930df586b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4562b11c5c60482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2829499336712d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VHDL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106231708d86e628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "備忘錄.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e74589e1a2ac9a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontend/figma.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7dc1f31a6eaeb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontend/Server Side Rendering (SSR).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ea3a01ec96155e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ccce7e7449bb7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa069f00ff832e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2efd8905e4a63028",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c8ff7a43e7bc92b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65ef6ced9fa9cf26",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f5836feef25af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d5ff9b57b301bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "frontend/Server Side Rendering (SSR).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04cd74aa67119ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "frontend/Server Side Rendering (SSR).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a3abf2fa1cd9e43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "295603562484b93d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "frontend/Server Side Rendering (SSR).md"
+              }
+            }
+          },
+          {
+            "id": "5700ac8c9efc725a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "61e44aaaf6426f2a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ad7dc1f31a6eaeb5",
+  "lastOpenFiles": [
+    "frontend/figma.md",
+    "frontend/Server Side Rendering (SSR).md",
+    "frontend/Animation.md",
+    "frontend/調色工具.md",
+    "tools list.md",
+    "備忘錄.md",
+    "寒假.md",
+    "OOP 問題.md",
+    "VHDL.md",
+    "Step for the problem.md",
+    "How to use Obsidian.md",
+    "Network Security/Memcrashed - Major amplification attacks from UDP port 11211.md",
+    "Network Security/The real cause of large DDoS - IP Spoofing.md",
+    "Network Security",
+    "photo/Graph.png",
+    "Kail Linux/tor browser.md",
+    "Kail Linux/i2p.md",
+    "idea/資安結合影像辨識.md",
+    "idea/證明算法的安全性.md",
+    "Kail Linux/Tor.md",
+    "Linux/DebConf 14 QA with Linus Torvalds.md",
+    "Kail Linux",
+    "專題.md",
+    "Program/functional programming/Monad.md",
+    "Program/functional programming/Side effect.md",
+    "Program/functional programming",
+    "Linear Algebra/2. matrix elimination.md",
+    "Linear Algebra/3. Multiplication and inverse matrices.md",
+    "Linear Algebra/4. LU Decomposition.md",
+    "Linear Algebra/5. Transposes, permutations, spaces R_n.md",
+    "Program/NodeJS",
+    "photo/Pasted image 20231212155308.png",
+    "Program/tech",
+    "Program/Haskell",
+    "photo/Pasted image 20231127171006.png",
+    "photo/Pasted image 20231126160710.png",
+    "photo/截圖 2023-11-26 下午3.17.31.png",
+    "idea",
+    "frontend",
+    "photo/Pasted image 20231110114815.png",
+    "Other",
+    "photo/Pasted image 20231105180110.png",
+    "photo/Pasted image 20231104090935.png",
+    "photo/Pasted image 20231029145147.png",
+    "photo/Pasted image 20231029141025.png",
+    "Statistics",
+    "未命名.canvas"
+  ]
+}

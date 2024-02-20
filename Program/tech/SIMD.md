@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Single_instruction,_multiple_data
